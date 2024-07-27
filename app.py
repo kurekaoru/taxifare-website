@@ -34,7 +34,7 @@ url = 'https://taxifare.lewagon.ai/predict'
 
 if url == 'https://taxifare.lewagon.ai/predict':
 
-    st.markdown('Reminder to self: finish your fking API ;/')
+    st.markdown('Reminder to self: spend some time to finish your fking API ;/')
 
 '''
 
